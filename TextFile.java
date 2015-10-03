@@ -11,7 +11,7 @@ import java.util.Arrays;
 import java.util.TreeSet;
 
 /**
- * TextFile
+ * 文本文件操作类
  *
  * @author chenside
  * @since 10/3/15 11:40 AM
